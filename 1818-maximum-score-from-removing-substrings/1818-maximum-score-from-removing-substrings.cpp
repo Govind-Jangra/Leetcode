@@ -1,22 +1,17 @@
 class Solution {
 public:
-    pair<int,string> solve(string s,string r,int c){
-        stack<char> st;
+    int solve(string &s,string r,int c){
+        int i=-1;
         int ans=0;
-        for(auto it:s){
-            if(!st.empty() && st.top()==r[0] && it==r[1]){
+        for(int j=0;j<s.size();j++){
+            if(i>=0 && s[i]==r[0] && s[j]==r[1]){
+                i--;
                 ans+=c;
-                st.pop();
             }
-            else st.push(it);
+            else s[++i]=s[j];
         }
-        string t="";
-        while(!st.empty()){
-            t+=st.top();
-            st.pop();
-        }
-        reverse(t.begin(),t.end());
-        return {ans,t};
+        s=s.substr(0,i+1);
+        return ans;
     }
     int maximumGain(string s, int x, int y) {
         string ab="ab",ba="ba";
@@ -24,8 +19,7 @@ public:
             swap(x,y);
             swap(ab,ba);
         }
-        auto it1= solve(s,ab,x);
-        auto it2=solve(it1.second,ba,y);
-        return it1.first+it2.first;
+        return solve(s,ab,x)+solve(s,ba,y);
+
     }
 };
