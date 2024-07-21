@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/Govind-Jangra/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Govind-Jangra/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Govind-Jangra/Leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Govind-Jangra/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/Govind-Jangra/Leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Govind-Jangra/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Govind-Jangra/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Govind-Jangra/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Govind-Jangra/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## String
 |  |
 | ------- |
@@ -149,4 +151,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/Govind-Jangra/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+## Graph
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/Govind-Jangra/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/Govind-Jangra/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
