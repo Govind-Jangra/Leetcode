@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Govind-Jangra/Leetcode/tree/master/0169-majority-element) |
+| [0295-find-median-from-data-stream](https://github.com/Govind-Jangra/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0726-number-of-atoms](https://github.com/Govind-Jangra/Leetcode/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/Govind-Jangra/Leetcode/tree/master/2846-robot-collisions) |
 ## Counting
@@ -159,4 +160,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/Govind-Jangra/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Govind-Jangra/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Govind-Jangra/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Govind-Jangra/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Govind-Jangra/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
