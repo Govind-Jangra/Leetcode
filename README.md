@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Govind-Jangra/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/Govind-Jangra/Leetcode/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Govind-Jangra/Leetcode/tree/master/0493-reverse-pairs) |
+| [0624-maximum-distance-in-arrays](https://github.com/Govind-Jangra/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Govind-Jangra/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0921-spiral-matrix-iii](https://github.com/Govind-Jangra/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Govind-Jangra/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/Govind-Jangra/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Govind-Jangra/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Govind-Jangra/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
