@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Govind-Jangra/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1642-water-bottles](https://github.com/Govind-Jangra/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Govind-Jangra/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Govind-Jangra/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Govind-Jangra/Leetcode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Govind-Jangra/Leetcode/tree/master/0169-majority-element) |
+| [0264-ugly-number-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0726-number-of-atoms](https://github.com/Govind-Jangra/Leetcode/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Govind-Jangra/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Govind-Jangra/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Govind-Jangra/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1196-filling-bookcase-shelves](https://github.com/Govind-Jangra/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Govind-Jangra/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -229,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Govind-Jangra/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
