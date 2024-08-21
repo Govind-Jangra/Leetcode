@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Govind-Jangra/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Govind-Jangra/Leetcode/tree/master/0127-word-ladder) |
 | [0273-integer-to-english-words](https://github.com/Govind-Jangra/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0664-strange-printer](https://github.com/Govind-Jangra/Leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/Govind-Jangra/Leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Govind-Jangra/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Govind-Jangra/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Govind-Jangra/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/Govind-Jangra/Leetcode/tree/master/0664-strange-printer) |
 | [0943-sum-of-subarray-minimums](https://github.com/Govind-Jangra/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1196-filling-bookcase-shelves](https://github.com/Govind-Jangra/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/1240-stone-game-ii) |
