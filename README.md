@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/Govind-Jangra/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Govind-Jangra/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/Govind-Jangra/Leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Govind-Jangra/Leetcode/tree/master/1803-average-waiting-time) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/Govind-Jangra/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Govind-Jangra/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Govind-Jangra/Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0906-walking-robot-simulation](https://github.com/Govind-Jangra/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Govind-Jangra/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Govind-Jangra/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1196-filling-bookcase-shelves](https://github.com/Govind-Jangra/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Govind-Jangra/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Govind-Jangra/Leetcode/tree/master/0726-number-of-atoms) |
+| [0906-walking-robot-simulation](https://github.com/Govind-Jangra/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Govind-Jangra/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Govind-Jangra/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Govind-Jangra/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
