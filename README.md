@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/Govind-Jangra/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/Govind-Jangra/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/Govind-Jangra/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/Govind-Jangra/Leetcode/tree/master/0670-maximum-swap) |
 | [1240-stone-game-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/Govind-Jangra/Leetcode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Govind-Jangra/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Govind-Jangra/Leetcode/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Govind-Jangra/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Govind-Jangra/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/Govind-Jangra/Leetcode/tree/master/0670-maximum-swap) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Govind-Jangra/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Govind-Jangra/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Govind-Jangra/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
