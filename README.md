@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/Govind-Jangra/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0664-strange-printer](https://github.com/Govind-Jangra/Leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/Govind-Jangra/Leetcode/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/Govind-Jangra/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Govind-Jangra/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1197-parsing-a-boolean-expression](https://github.com/Govind-Jangra/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Govind-Jangra/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/Govind-Jangra/Leetcode/tree/master/0812-rotate-string) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Govind-Jangra/Leetcode/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 ## Enumeration
 |  |
