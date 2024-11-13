@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Govind-Jangra/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Govind-Jangra/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Govind-Jangra/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Govind-Jangra/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Govind-Jangra/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/Govind-Jangra/Leetcode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2554-minimum-total-distance-traveled](https://github.com/Govind-Jangra/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Govind-Jangra/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Govind-Jangra/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Govind-Jangra/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/Govind-Jangra/Leetcode/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Govind-Jangra/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Govind-Jangra/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Govind-Jangra/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Govind-Jangra/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -375,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Govind-Jangra/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Govind-Jangra/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Govind-Jangra/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Govind-Jangra/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Govind-Jangra/Leetcode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Design
 |  |
