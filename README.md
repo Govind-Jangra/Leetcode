@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2846-robot-collisions](https://github.com/Govind-Jangra/Leetcode/tree/master/2846-robot-collisions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Govind-Jangra/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Govind-Jangra/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Govind-Jangra/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Govind-Jangra/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Govind-Jangra/Leetcode/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Govind-Jangra/Leetcode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -542,11 +544,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Govind-Jangra/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Govind-Jangra/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Govind-Jangra/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Govind-Jangra/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Govind-Jangra/Leetcode/tree/master/0812-rotate-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Govind-Jangra/Leetcode/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 ## Enumeration
 |  |
@@ -560,4 +564,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Govind-Jangra/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
