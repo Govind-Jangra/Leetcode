@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Govind-Jangra/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/Govind-Jangra/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Govind-Jangra/Leetcode/tree/master/0179-largest-number) |
+| [0407-trapping-rain-water-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0493-reverse-pairs](https://github.com/Govind-Jangra/Leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Govind-Jangra/Leetcode/tree/master/0494-target-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/Govind-Jangra/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Govind-Jangra/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Govind-Jangra/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0921-spiral-matrix-iii](https://github.com/Govind-Jangra/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Govind-Jangra/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -338,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Govind-Jangra/Leetcode/tree/master/0127-word-ladder) |
+| [0407-trapping-rain-water-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Govind-Jangra/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1484-linked-list-in-binary-tree](https://github.com/Govind-Jangra/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Govind-Jangra/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -472,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Govind-Jangra/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0407-trapping-rain-water-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Govind-Jangra/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Govind-Jangra/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1325-path-with-maximum-probability](https://github.com/Govind-Jangra/Leetcode/tree/master/1325-path-with-maximum-probability) |
