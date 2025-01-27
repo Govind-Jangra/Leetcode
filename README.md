@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Govind-Jangra/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3713-frequencies-of-shortest-supersequences](https://github.com/Govind-Jangra/Leetcode/tree/master/3713-frequencies-of-shortest-supersequences) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Govind-Jangra/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Hash Table
 |  |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Govind-Jangra/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3580-find-the-occurrence-of-first-almost-equal-substring](https://github.com/Govind-Jangra/Leetcode/tree/master/3580-find-the-occurrence-of-first-almost-equal-substring) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Govind-Jangra/Leetcode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3713-frequencies-of-shortest-supersequences](https://github.com/Govind-Jangra/Leetcode/tree/master/3713-frequencies-of-shortest-supersequences) |
 ## Stack
 |  |
 | ------- |
@@ -456,11 +458,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2803-modify-graph-edge-weights](https://github.com/Govind-Jangra/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3713-frequencies-of-shortest-supersequences](https://github.com/Govind-Jangra/Leetcode/tree/master/3713-frequencies-of-shortest-supersequences) |
 ## Topological Sort
 |  |
 | ------- |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Govind-Jangra/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Govind-Jangra/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [3713-frequencies-of-shortest-supersequences](https://github.com/Govind-Jangra/Leetcode/tree/master/3713-frequencies-of-shortest-supersequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -546,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Govind-Jangra/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/Govind-Jangra/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3394-minimum-array-end](https://github.com/Govind-Jangra/Leetcode/tree/master/3394-minimum-array-end) |
+| [3713-frequencies-of-shortest-supersequences](https://github.com/Govind-Jangra/Leetcode/tree/master/3713-frequencies-of-shortest-supersequences) |
 ## Union Find
 |  |
 | ------- |
@@ -580,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Govind-Jangra/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3713-frequencies-of-shortest-supersequences](https://github.com/Govind-Jangra/Leetcode/tree/master/3713-frequencies-of-shortest-supersequences) |
 ## Monotonic Queue
 |  |
 | ------- |
