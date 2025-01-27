@@ -1,59 +1,34 @@
+#include <vector>
+#include <algorithm>
+#include <climits>
+
+using namespace std;
+
 class Solution {
 public:
     int maxFrequency(vector<int>& nums, int k) {
-        // 1) Count how many elements are already k
-        int n = (int)nums.size();
-        int freqK = 0;
-        unordered_set<int> distinctValues;
-        for (int val: nums) {
-            if (val == k) freqK++;
-            distinctValues.insert(val);
-        }
-        
-        // If all elements are the same as k, answer is n (but we still have to do one operation).
-        // Actually, in that scenario freqK = n, we can't improve on that. 
-        // The operation could be x=0 on a single-element subarray => final freq is still n. 
-        // We'll handle that automatically below.
-        
-        // 2) For each distinct v != k, compute the maximum subarray difference
-        //    difference = (# of v) - (# of k) in that subarray.
-        
-        int bestGain = 0;  // We'll track the best subarray gain across all v
-        
-        for (int v: distinctValues) {
-            if (v == k) continue;  // No need to do subarray transform for v == k (x=0 doesn't help).
-            
-            // Build the array A_v
-            // A_v[i] = +1 if nums[i] = v
-            //         = -1 if nums[i] = k
-            //         =  0 otherwise
-            // Then run Kadane's to find max subarray sum
-            int currentSum = 0;
-            int maxSum = INT_MIN;
-            
-            for (int val: nums) {
-                int contribution = 0;
-                if (val == v) contribution = 1;
-                else if (val == k) contribution = -1;
-                
-                currentSum += contribution;
-                if (currentSum > maxSum) {
-                    maxSum = currentSum;
+        int total_k = count(nums.begin(), nums.end(), k);
+        int max_gain = 0; // Initialize with 0 to account for v == k case
+
+        for (int v = 1; v <= 50; ++v) {
+            if (v == k) continue; // Skip v == k as handled by initializing max_gain to 0
+
+            int current_max = INT_MIN;
+            int max_so_far = INT_MIN;
+            for (int num : nums) {
+                int val = (num == v) ? 1 : (num == k ? -1 : 0);
+                if (current_max == INT_MIN) {
+                    current_max = val;
+                } else {
+                    current_max = max(val, current_max + val);
                 }
-                if (currentSum < 0) {
-                    currentSum = 0;
-                }
+                max_so_far = max(max_so_far, current_max);
             }
-            
-            bestGain = max(bestGain, maxSum);
+            if (max_so_far > max_gain) {
+                max_gain = max_so_far;
+            }
         }
-        
-        // If bestGain < 0, we won't use it. So net gain is max(0, bestGain).
-        // Final answer is freqK + that net gain
-        // But we must do an operation. If all bestGain are negative, we pick e.g. subarray of length 1 with x=0 => net gain = 0
-        // So effectively we just do:
-        
-        bestGain = max(bestGain, 0);
-        return freqK + bestGain;
+
+        return total_k + max_gain;
     }
 };
