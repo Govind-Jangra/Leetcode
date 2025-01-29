@@ -351,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0127-word-ladder](https://github.com/Govind-Jangra/Leetcode/tree/master/0127-word-ladder) |
 | [0407-trapping-rain-water-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0684-redundant-connection](https://github.com/Govind-Jangra/Leetcode/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/Govind-Jangra/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1484-linked-list-in-binary-tree](https://github.com/Govind-Jangra/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Govind-Jangra/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Govind-Jangra/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0684-redundant-connection](https://github.com/Govind-Jangra/Leetcode/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Govind-Jangra/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Govind-Jangra/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Govind-Jangra/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -449,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Govind-Jangra/Leetcode/tree/master/0684-redundant-connection) |
 | [1325-path-with-maximum-probability](https://github.com/Govind-Jangra/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Govind-Jangra/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Govind-Jangra/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -554,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Govind-Jangra/Leetcode/tree/master/0684-redundant-connection) |
 | [2035-count-sub-islands](https://github.com/Govind-Jangra/Leetcode/tree/master/2035-count-sub-islands) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Govind-Jangra/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
