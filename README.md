@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Govind-Jangra/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Govind-Jangra/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Govind-Jangra/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Govind-Jangra/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/Govind-Jangra/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Govind-Jangra/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/Govind-Jangra/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/Govind-Jangra/Leetcode/tree/master/0726-number-of-atoms) |
 | [0906-walking-robot-simulation](https://github.com/Govind-Jangra/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Govind-Jangra/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Govind-Jangra/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Govind-Jangra/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Govind-Jangra/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Govind-Jangra/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/Govind-Jangra/Leetcode/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Govind-Jangra/Leetcode/tree/master/0493-reverse-pairs) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Govind-Jangra/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Sorting
 |  |
 | ------- |
@@ -382,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Govind-Jangra/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Govind-Jangra/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Govind-Jangra/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Govind-Jangra/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Govind-Jangra/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/Govind-Jangra/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -395,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Govind-Jangra/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Govind-Jangra/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Govind-Jangra/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Govind-Jangra/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/Govind-Jangra/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
