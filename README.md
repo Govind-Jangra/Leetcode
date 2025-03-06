@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Govind-Jangra/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/Govind-Jangra/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Govind-Jangra/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/Govind-Jangra/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2846-robot-collisions](https://github.com/Govind-Jangra/Leetcode/tree/master/2846-robot-collisions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Govind-Jangra/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Govind-Jangra/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/Govind-Jangra/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Govind-Jangra/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/Govind-Jangra/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Govind-Jangra/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/Govind-Jangra/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3227-find-missing-and-repeated-values](https://github.com/Govind-Jangra/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Govind-Jangra/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -291,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Govind-Jangra/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Govind-Jangra/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Govind-Jangra/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [3227-find-missing-and-repeated-values](https://github.com/Govind-Jangra/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
