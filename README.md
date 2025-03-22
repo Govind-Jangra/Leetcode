@@ -414,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Govind-Jangra/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Govind-Jangra/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2793-count-the-number-of-complete-components](https://github.com/Govind-Jangra/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Tree
 |  |
 | ------- |
@@ -473,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Govind-Jangra/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Govind-Jangra/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2793-count-the-number-of-complete-components](https://github.com/Govind-Jangra/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Govind-Jangra/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Dynamic Programming
 |  |
@@ -521,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Govind-Jangra/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Govind-Jangra/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Govind-Jangra/Leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2793-count-the-number-of-complete-components](https://github.com/Govind-Jangra/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [2803-modify-graph-edge-weights](https://github.com/Govind-Jangra/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -634,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0684-redundant-connection](https://github.com/Govind-Jangra/Leetcode/tree/master/0684-redundant-connection) |
 | [2035-count-sub-islands](https://github.com/Govind-Jangra/Leetcode/tree/master/2035-count-sub-islands) |
+| [2793-count-the-number-of-complete-components](https://github.com/Govind-Jangra/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Govind-Jangra/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
