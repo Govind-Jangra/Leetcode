@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/Govind-Jangra/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/Govind-Jangra/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Govind-Jangra/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Govind-Jangra/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1240-stone-game-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Govind-Jangra/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Govind-Jangra/Leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Govind-Jangra/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Govind-Jangra/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Govind-Jangra/Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Govind-Jangra/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Govind-Jangra/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Govind-Jangra/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Govind-Jangra/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Govind-Jangra/Leetcode/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Govind-Jangra/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/Govind-Jangra/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Govind-Jangra/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Govind-Jangra/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Govind-Jangra/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Govind-Jangra/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
