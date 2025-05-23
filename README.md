@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Govind-Jangra/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Govind-Jangra/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Govind-Jangra/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Govind-Jangra/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3430-count-days-without-meetings](https://github.com/Govind-Jangra/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3001-apply-operations-to-maximize-score](https://github.com/Govind-Jangra/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Govind-Jangra/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Govind-Jangra/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3430-count-days-without-meetings](https://github.com/Govind-Jangra/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/Govind-Jangra/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Govind-Jangra/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -463,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Govind-Jangra/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Govind-Jangra/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Govind-Jangra/Leetcode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3647-zero-array-transformation-iii](https://github.com/Govind-Jangra/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Govind-Jangra/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -496,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Govind-Jangra/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Govind-Jangra/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Govind-Jangra/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
 | ------- |
@@ -578,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/Govind-Jangra/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Govind-Jangra/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Govind-Jangra/Leetcode/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Govind-Jangra/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -724,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2509-minimize-xor](https://github.com/Govind-Jangra/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Govind-Jangra/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/Govind-Jangra/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Govind-Jangra/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3394-minimum-array-end](https://github.com/Govind-Jangra/Leetcode/tree/master/3394-minimum-array-end) |
 | [3713-frequencies-of-shortest-supersequences](https://github.com/Govind-Jangra/Leetcode/tree/master/3713-frequencies-of-shortest-supersequences) |
 ## Union Find
