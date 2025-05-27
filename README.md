@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/Govind-Jangra/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Govind-Jangra/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Govind-Jangra/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Govind-Jangra/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Govind-Jangra/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Govind-Jangra/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
