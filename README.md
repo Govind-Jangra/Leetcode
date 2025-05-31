@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/Govind-Jangra/Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Govind-Jangra/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/Govind-Jangra/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0945-snakes-and-ladders](https://github.com/Govind-Jangra/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1002-maximum-width-ramp](https://github.com/Govind-Jangra/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/Govind-Jangra/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Govind-Jangra/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -355,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Govind-Jangra/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0921-spiral-matrix-iii](https://github.com/Govind-Jangra/Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0945-snakes-and-ladders](https://github.com/Govind-Jangra/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Govind-Jangra/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Govind-Jangra/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Govind-Jangra/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -484,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/Govind-Jangra/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/Govind-Jangra/Leetcode/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/Govind-Jangra/Leetcode/tree/master/0787-sliding-puzzle) |
+| [0945-snakes-and-ladders](https://github.com/Govind-Jangra/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1484-linked-list-in-binary-tree](https://github.com/Govind-Jangra/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Govind-Jangra/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Govind-Jangra/Leetcode/tree/master/2035-count-sub-islands) |
